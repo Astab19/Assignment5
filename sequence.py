@@ -1,2 +1,2 @@
-n = int(input("Enter the length of the sequence: ")) # Do not change this linen = int(input("Enter the length of the sequence: ")) # Do not change this line
+nanna = int(input("Enter the length of the sequence: ")) # Do not change this linen = int(input("Enter the length of the sequence: ")) # Do not change this line
 
